@@ -10,7 +10,7 @@ months = ('january', 'february', 'march', 'april', 'may', 'june')
 weekdays = ('sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday',
             'saturday')
 
-
+# gather information from user 
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
