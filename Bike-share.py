@@ -10,7 +10,13 @@ months = ('january', 'february', 'march', 'april', 'may', 'june')
 weekdays = ('sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday',
             'saturday')
 
+<<<<<<< HEAD
 # get infromation from users
+||||||| merged common ancestors
+
+=======
+# gather information from user 
+>>>>>>> documentation
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
